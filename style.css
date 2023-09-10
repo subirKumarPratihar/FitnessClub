@@ -261,6 +261,9 @@ li {
     color: rgb(0, 0, 0) !important;
 }
 
+#news_letter button{
+    font-size: 3.6vw;
+}
 
 
 @media screen and (min-width: 650px) {
