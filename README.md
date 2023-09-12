@@ -30,7 +30,16 @@
 * **Contact Form**
 * Mossive use of font icons
 
+<br />
 
+### Libraries and Plugins
+* Bootstrap5
+* Bootstrap Icons
+* Bootstrap Js
+* Google Icons
+* fontawsome Icons
+
+<br/>
 
 ### Contact📞
 
