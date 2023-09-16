@@ -10,9 +10,7 @@
 
 <br />
 
-### Demo Screeshots
-
-<!--![ELearn Desktop Demo](image/readme_img/ELearn_img.png "Desktop Demo") -->
+![ELearn Desktop Demo](image/FitnessClub.png "Fitness Club ScreenShort.")
 
 <br />
 
@@ -32,7 +30,7 @@
 
 <br />
 
-### Libraries and Plugins
+### Libraries and Plugins 🧩
 * Bootstrap5
 * Bootstrap Icons
 * Bootstrap Js
